@@ -1,0 +1,2 @@
+# SambungKata
+Game Sambung Kata
